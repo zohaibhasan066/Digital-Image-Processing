@@ -1,6 +1,6 @@
 **README for Image Enhancement Project**
 
-**Disclaimer
+**Disclaimer :
 All codes in this project were executed on a Kaggle notebook environment, and results may vary in different settings.**
 
 ### Project Title: Image Enhancement Techniques -1
